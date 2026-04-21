@@ -49,3 +49,9 @@ Part 4:
         pass Host, X-Real-IP
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;  
+
+
+All the practice cmd screenshots here:
+
+    https://drive.google.com/drive/folders/1l4ikD0fN_8FD-Lhp5pLv3SQS25iTWTWw?usp=sharing
+    
